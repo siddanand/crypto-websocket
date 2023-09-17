@@ -1,0 +1,17 @@
+{
+  "name": "websocket-implementation",
+  "version": "1.0.0",
+  "description": "Code implementation for websocket to moniter live data on crypto market ",
+  "type": "module",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "keywords": [],
+  "dependencies": {
+    "websocket": "1.0.34"
+  }
+}
